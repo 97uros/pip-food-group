@@ -1,0 +1,15 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+
+/wp-content/plugins/
+/wp-content/uploads/
+
+# Ignore database credentials
+wp-config.php
+
+# Ignore OS or IDE files
+.DS_Store
+Thumbs.db
+.idea/
+*.log

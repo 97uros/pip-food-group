@@ -1,0 +1,35 @@
+
+// Global 
+
+@import "base/typography";
+@import "base/colors";
+@import "base/buttons";
+
+// Styles
+
+@import "components/navbar";
+@import "components/footer";
+@import "components/homepage";
+@import "components/testimonials";
+@import "components/cta";
+@import "components/blog";
+@import "components/single-post";
+@import "components/demo-centar";
+@import "components/page-header";
+@import "components/lab";
+@import "components/team";
+@import "components/hiring";
+@import "components/map";
+@import "components/company";
+@import "components/quality";
+@import "components/image-slider-mobile";
+@import "components/contact";
+@import "components/sidebar";
+@import "components/search";
+@import "components/404";
+
+// Woocommerce Styles
+
+@import "woocommerce/product-archive";
+@import "woocommerce/single-product";
+@import "woocommerce/special-cat";
